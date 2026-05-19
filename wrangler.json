@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "the-drive",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e69ca90c-829e-469d-97a7-e1e923838e19",
+			"database_name": "the-drive-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
